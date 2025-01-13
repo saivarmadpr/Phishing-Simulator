@@ -18,6 +18,13 @@ Welcome to the **Phishing Simulator** repository! This repository highlights the
 
 ---
 
+## Educational Resources 📚
+1. [Red Flags of Phishing Emails](educational/red-flags.md)
+2. [Tips for Phishing Prevention](educational/prevention.md)
+3. [Tools for Analyzing Phishing Emails](educational/tools.md)
+
+---
+
 ## Key Features
 - Realistic phishing email examples.
 - Comprehensive educational materials.
